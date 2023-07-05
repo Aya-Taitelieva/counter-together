@@ -1,6 +1,7 @@
 .App {
   text-align: center;
 }
+
 form {
   margin-top: 50px;
 }
@@ -10,6 +11,13 @@ form {
   width: 250px;
   height: 80px;
 }
+
+
+.btns {
+  margin-left: 10px;
+}
+
+
 .btn-counter-p {
   margin: 5px;
   border: none;
