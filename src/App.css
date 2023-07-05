@@ -2,9 +2,21 @@
   text-align: center;
 }
 
+form {
+  margin-top: 50px;
+}
+.h3 {
+  margin: 10px auto;
+  border: #6c5ce7 solid 1px;
+  width: 250px;
+  height: 80px;
+}
+
+
 .btns {
   margin-left: 10px;
 }
+
 
 .btn-counter-p {
   margin: 5px;
